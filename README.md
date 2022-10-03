@@ -40,7 +40,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
     />
    </a>
 
-  <a href="https://github.com/akachi1409/github-readme-stats">
+  <a href="https://github.com/jxiao910/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vision-friendly-dark" />
