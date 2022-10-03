@@ -27,7 +27,7 @@ Telegram: https://t.me/jayxiao910 </br>
 
 <p align="left">
    <img src="https://github-profile-trophy.vercel.app/?username=akachi1409&theme=flat&row=2&column=3&margin-w=5&margin-h=5"/>
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=true"/> 
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=false"/> 
 </p>
 
 <p align="left">
