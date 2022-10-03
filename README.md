@@ -36,7 +36,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
   <a href="https://github.com/akachi1409/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=jlengstorf&count_private=true&show_icons=true&custom_title=Jason Xiao's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=jlengstorf&count_private=true&show_icons=true&custom_title=Jason's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
