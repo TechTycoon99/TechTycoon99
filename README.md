@@ -31,7 +31,7 @@ Telegram: https://t.me/jayxiao910 </br>
 </p>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=vue&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3"/>
 </p>
 
 <p align="left">
