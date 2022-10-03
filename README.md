@@ -27,16 +27,9 @@ Telegram: https://t.me/jayxiao910 </br>
 
 <p align="left">
   <a href="https://github.com/jxiao910/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=false"/>
   </a>
-</p>
-
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=vue&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
-<p align="center">
-  <a href="https://github.com/jxiao910/github-readme-stats">
+      <a href="https://github.com/jxiao910/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=jlengstorf&count_private=true&show_icons=true&custom_title=Jason's%20Github%20Status&hide=issues&theme=vision-friendly"
@@ -48,6 +41,14 @@ Telegram: https://t.me/jayxiao910 </br>
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vision-friendly" />
   </a>  
+</p>
+
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=vue&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+<p align="center">
+
 </p>
 
 ## Language and Tools
