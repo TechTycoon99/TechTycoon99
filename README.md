@@ -27,7 +27,7 @@ Telegram: https://t.me/jayxiao910 </br>
 
 <p align="left">
   <a href="https://github.com/jxiao910/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=ayu-light&hide_border=false"/> 
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=github-light&hide_border=false"/> 
 </p>
 
 <p align="center">
