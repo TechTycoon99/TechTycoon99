@@ -25,13 +25,13 @@ Telegram: https://t.me/jayxiao910 </br>
     
 ## Overview
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/jxiao910/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
-<p>
+<p align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
@@ -57,7 +57,7 @@ Telegram: https://t.me/jayxiao910 </br>
 
 ## Contribution and Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jxiao910&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jxiao910&bg_color=979597&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
 
 If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
