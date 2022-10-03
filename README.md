@@ -27,12 +27,12 @@ Telegram: https://t.me/jayxiao910 </br>
 
 <p align="left">
   <a href="https://github.com/jxiao910/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=vue&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Telegram: https://t.me/jayxiao910 </br>
   <a href="https://github.com/jxiao910/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vision-friendly" />
   </a>  
 </p>
 
