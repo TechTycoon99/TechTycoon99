@@ -62,7 +62,7 @@ Telegram: https://t.me/jayxiao910 </br>
 
 ## Contribution and Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JasonXiao89&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XiaoZhangJian&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
 
 If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
