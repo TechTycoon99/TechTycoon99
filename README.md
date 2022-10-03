@@ -17,7 +17,7 @@ overthrowing capitalism.
 ⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
 flipping tortillas. I know I can do it. My girlfriend disagrees.
 
-📫 How to reach me </br>
+📫 **How to reach me** </br>
 Email: jxiao0910@gmail.com </br>
 Skype: live:.cid.9bf38318eea452c4 </br>
 Discord: JasonXiao#7651 </br>
@@ -26,18 +26,13 @@ Telegram: https://t.me/jayxiao910 </br>
 ## Overview
 
 <p align="center">
-  <a href="https://github.com/jxiao910?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/akachi1409"/></a>
-  <a href="https://github.com/jxiao910?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akachi1409?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/jxiao910">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=akachi1409&style=for-the-badge"/></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/jxiao910/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=monokai-metallian&hide_border=true"/>
   </a>
+</p>
+
+<p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=jxiao910&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
@@ -62,7 +57,7 @@ Telegram: https://t.me/jayxiao910 </br>
 
 ## Contribution and Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XiaoZhangJian&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jxiao910&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
 
 If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
