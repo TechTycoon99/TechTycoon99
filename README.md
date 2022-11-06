@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm a senior Full-stack Blockchain developer.
-![I'm a senior Full-stack Blockchain developer](https://github.com/jxiao910/jxiao910/blob/main/Cover%20Img.png)
 
 ## About Me
 
