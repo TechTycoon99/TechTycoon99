@@ -1,10 +1,10 @@
-### Hi there 👋 I'm a senior Full-stack Blockchain developer.
+### Hi there 👋 I'm a senior Full-stack Web developer.
 
 ## About Me
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: Defi, Dapp, NFT marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap)  and other Ecommerce sites (for real though, I love starting stuff from
+🔭 **Who am I**: Passionate full-stack engineer with 6+ years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Python, JavaScript, PHP, etc.(for real though, I love starting stuff from
 scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.
@@ -18,10 +18,10 @@ overthrowing capitalism.
 flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 📫 **How to reach me** </br>
-Email: jxiao0910@gmail.com </br>
-Skype: live:.cid.9bf38318eea452c4 </br>
-Discord: JasonXiao#7651 </br>
-Telegram: https://t.me/jayxiao910 </br>
+Email: juangarza9499@gmail.com </br>
+Skype: live:.cid.5adcaeb1550a4efa</br>
+Discord: Juan Garza#7651 </br>
+Telegram: https://t.me/juangarza9499 </br>
     
 ## Overview
 
@@ -30,7 +30,7 @@ Telegram: https://t.me/jayxiao910 </br>
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=false"/> 
 </p>
 <p align="left">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlengstorf&count_private=true&show_icons=true&custom_title=Jason's%20Github%20Status&hide=issues&theme=vue"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlengstorf&count_private=true&show_icons=true&custom_title=Juan's%20Github%20Status&hide=issues&theme=vue"/>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vue" />
 </p>
 
