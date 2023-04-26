@@ -20,8 +20,8 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 📫 **How to reach me** </br>
 Email: juangarza9499@gmail.com </br>
 Skype: live:.cid.5adcaeb1550a4efa</br>
-Discord: Juan Garza#7651 </br>
-Telegram: https://t.me/juangarza9499 </br>
+Discord: NovaNinja99#2848 </br>
+Telegram: https://t.me/nova99ninja </br>
     
 ## Overview
 
