@@ -16,22 +16,16 @@ overthrowing capitalism.
 
 ⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
 flipping tortillas. I know I can do it. My girlfriend disagrees.
-
-📫 **How to reach me** </br>
-Email: juangarza9499@gmail.com </br>
-Skype: live:.cid.5adcaeb1550a4efa</br>
-Discord: NovaNinja99#2848 </br>
-Telegram: https://t.me/nova99ninja </br>
     
 ## Overview
 
 <p align="left">
-   <img src="https://github-profile-trophy.vercel.app/?username=akachi1409&theme=flat&row=2&column=3&margin-w=5&margin-h=5"/>
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=false"/> 
+   <img src="https://github-profile-trophy.vercel.app/?username=techtycoon99&theme=flat&row=2&column=3&margin-w=5&margin-h=5"/>
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="techtycoon99" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=vue&hide_border=false"/> 
 </p>
 <p align="left">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlengstorf&count_private=true&show_icons=true&custom_title=Juan's%20Github%20Status&hide=issues&theme=vue"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vue" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techtycoon99&count_private=true&show_icons=true&custom_title=Juan's%20Github%20Status&hide=issues&theme=vue"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techtycoon99&layout=compact&theme=vue" />
 </p>
 
 ## Language and Tools
@@ -44,4 +38,4 @@ Telegram: https://t.me/nova99ninja </br>
 If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
 
-![](https://komarev.com/ghpvc/?username=RisingStar-Web&color=30a14e)
+![](https://komarev.com/ghpvc/?username=techtycoon99&color=30a14e)
